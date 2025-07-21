@@ -5,7 +5,6 @@ public class week1 {
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.println("Code Executing !");
-        armstrongNumber(args);
     }
 
     public static void naturalSum(String[] args) {
@@ -51,3 +50,4 @@ public class week1 {
         System.out.printf("\nThe Prime Numbers from %d to %d are : ",start,end);
         System.out.println(prime);
     }
+}
