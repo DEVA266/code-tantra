@@ -51,4 +51,5 @@ public class week1 {
         System.out.printf("\nThe Prime Numbers from %d to %d are : ",start,end);
         System.out.println(prime);
     }
+
 }
